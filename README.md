@@ -12,7 +12,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/JimTK16/single-price-grid-component
-- Live Site URL: https://profile-card-component-by-jim.netlify.app/
+- Live Site URL: https://single-price-grid-component-by-jim.netlify.app/
 
 ## My process
 
@@ -23,7 +23,3 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
-### What I learned
-
-- Add multiple background images and position them to match the design.
